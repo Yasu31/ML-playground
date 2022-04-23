@@ -1,5 +1,7 @@
 MNIST/*
 *.pt
+LabPicsV1
+*.pth
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
